@@ -1,0 +1,48 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+.music-player {
+    text-align: center;
+    background: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.cover img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.info {
+    margin: 1rem 0;
+}
+
+.controls {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1rem;
+}
+
+.control-button {
+    background: #74d4f2;
+    color: white;
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.control-button:hover {
+    background: #88baf1;
+}

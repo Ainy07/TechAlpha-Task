@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pinterest Clone</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Pinterest Clone</h1>
+        <button id="add-image-button" class="button">Add Image</button>
+    </div>
+    <div class="gallery" id="gallery">
+        <!-- Images will be dynamically added here -->
+    </div>
+    
+    <!-- Add Image Modal -->
+    <div id="add-image-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Add New Image</h2>
+            <form id="add-image-form">
+                <label for="image-file">Image File:</label>
+                <input type="file" id="image-file" name="image-file" accept="image/*" required>
+                <label for="image-title">Image Title:</label>
+                <input type="text" id="image-title" name="image-title" required>
+                <button type="submit" class="button">Add Image</button>
+            </form>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

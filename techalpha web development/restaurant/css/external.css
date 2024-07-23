@@ -1,0 +1,1448 @@
+      *
+		{
+			margin: 0px;
+			padding: 0px;
+		}
+		.homepage
+		{
+			position: absolute;
+			top: 20px;
+			left: 950px;
+		}
+		.homepage ul
+	  {
+      list-style: none; 
+	  }
+	  .homepage ul li 
+    {
+	     background: lightpink;
+	     border: 1px solid black;
+		   height: 30px;
+            width: 100px;
+			 text-align: center;
+			 line-height: 30px;
+		   float: left;
+		   border-radius: 12px;
+		} 
+	  .homepage ul li a 
+	  {
+		   text-decoration: none;
+			 color: black;
+		}
+	  .homepage ul li:hover 
+	  {
+			 background:  #ccccb3;
+    }
+	  .homepage ul ul
+	  {
+		    display: none;
+		}
+		.homepage ul li:hover>ul  
+		{
+		    display: block; 
+		}
+
+
+
+
+
+
+
+
+        .homepage10 ul
+	  {
+      list-style: none; 
+	  }
+	  .homepage10 ul li 
+    {
+	     
+		   height: 30px;
+       width: 100px;
+			 text-align: center;
+			 line-height: 30px;
+		   float: left;
+		   border-radius: 12px;
+
+		} 
+	  .homepage10 ul li a 
+	  {
+		   text-decoration: none;
+			 color: black;
+		}
+	  .homepage10 ul li:hover 
+	  {
+			 background:  antiquewhite;
+    }
+	  .homepage10 ul ul
+	  {
+		    display: none;
+		}
+		.homepage10 ul li:hover>ul  
+		{
+		    display: block; 
+		}
+		.homepage10
+		{
+			position: absolute;
+			left: 1000px;
+		}
+
+      .home
+		  {
+		  	position: absolute;
+		  	top: 10px;
+		  	left: 600px;
+		  	font-size: 30px;
+		  }
+		 .line 
+		  {
+		  	position: absolute;
+		  	top: 250px;
+		  	left: 250px;
+		  	font-size: 20px;
+		  }
+		  .image1 
+		  {
+		  	position: absolute;
+		  	top: 130px;
+		  	left: 630px;
+		  	
+		  }
+		   .image2
+		  {
+		  	position: absolute;
+		  	top: 350px;
+		  	left: 630px;
+		  	
+		  }
+		    .image3
+		  {
+		  	position: absolute;
+		  	top: 200px;
+		  	left: 1000px;
+		  	
+		  }
+		 
+           .book
+		  {
+		  	position: absolute;
+		  	top: 450px;
+		  	left: 470px;
+		  	color: green;
+		  	
+		  }
+		  .box1
+		  {
+		  	height: 200px;
+		  	width: 200px;
+		  	background-color: #cccccc;
+		  	border-radius: 10px;
+		  	position: absolute;
+		  	top: 700px;
+		  	left: 440px;
+
+		  }
+		   .box2
+		  {
+		  	height: 200px;
+		  	width: 200px;
+		  	background-color: #cccccc;
+		  	border-radius: 10px;
+		  	position: absolute;
+		  	top: 700px;
+		  	left: 660px;
+		  }
+		   .box3
+		  {
+		  	height: 200px;
+		  	width: 200px;
+		  	background-color: #cccccc;
+		  	border-radius: 10px;
+		  	position: absolute;
+		  	top: 700px;
+		  	left: 880px;
+		  }
+		  .watch
+		  {
+		  	
+		  	position: absolute;
+		  	top: 30px;
+		  	left: 70px;
+		  }
+		  .time
+		  {
+		  	position: absolute;
+		  	top: 120px;
+		  	left: 55px;
+		  }
+		   .address
+		  {
+		  	position: absolute;
+		  	top: 70px;
+		  	left: 25px;
+		  }
+		   .mobile
+		   {
+		   	position: absolute;
+		   	top: 50px;
+		   	left: 50px;
+		   }
+		   .box4
+		  {
+		  	height: 400px;
+		  	width: 200px;
+		  	background-color: #99ff99;
+		  	border-radius: 10px;
+		  	position: absolute;
+		  	top: 1100px;
+		  	left: 400px;
+		   }
+		   .image4
+		   {
+		   	position: absolute;
+		  	top: -90px;
+		  	left: 14px;
+		   }
+		  
+		   .box5
+		   {
+		   	height: 400px;
+		  	width: 200px;
+		  	background-color: #99ff99;
+		  	border-radius: 10px;
+		  	position: absolute;
+		  	top: 1100px;
+		  	left: 500px;
+		   }
+		   .image5
+		   {
+		   	position: absolute;
+		  	top: -170px;
+		  	left: 14px;
+		   }
+		    .image5 img
+           {
+            transition: all 1s;
+           }
+           .image5 img:hover 
+           {
+            width: 170px;
+            height:130px;
+           }
+		   
+		   .line3
+		   {
+		   	position: absolute;
+		   	top: 1230px;
+            left: 515px;
+		   }
+		   .line4
+		   {
+		   	position: absolute;
+		   	top: 1150px;
+		   	left: 890px;
+		   }
+		   .booktable
+		   {
+		   	width: 100px;
+		   	height: 30px;
+		   	background-color: #29a329;
+		   	border-radius: 5px;
+		   	text-align: center;
+		    line-height: 30px;
+		   	font-size: 15px;
+            position: absolute;
+            top: 1290px;
+            left: 890px;
+            color: white;
+		   }
+		   .box6
+		   {
+		   	 height: 380px;
+		  	 width: 1000px;
+		  	 background-color: #cccccc;
+		  	 border-radius: 10px;
+		  	 position: absolute;
+		  	 top: 1700px;
+		  	 left: 260px;
+		   }
+		   .image6
+		   {
+		   	position: absolute;
+		   	top: 40px;
+		   	left: 20px;
+		   }
+		   .image7
+		   {
+		   	position: absolute;
+		   	top: 40px;
+		   	left:230px ;
+		   }
+		   .image8
+		   {
+		   	position: absolute;
+		   	top: 40px;
+		   	left: 440px;
+		   }
+		   .line5
+		   {
+		   	color: green;
+		   	position: absolute;
+		   	top: 60px;
+		   	left: 700px;
+		   }
+		   .line6
+		   {
+		   	position: absolute;
+		   	top: 90px;
+		   	left: 690px;
+		   }
+		    .book2
+		   {
+		   	width: 100px;
+		   	height: 30px;
+		   	background-color: #29a329;
+		   	border-radius: 5px;
+		   	text-align: center;
+		    line-height: 30px;
+		   	font-size: 15px;
+            position: absolute;
+            top: 200px;
+            left: 700px;
+            color: white;
+		   }
+		   .video
+		   {
+		   	position: absolute;
+		   	top: 2300px;
+		   	left: 300px;
+		   }
+		   .image9
+		   {
+		   	position: absolute;
+		   	top: 2300px;
+		   	left: 915px;
+		   }
+		   .box7
+		   {
+             height: 180px;
+             width: 400px;
+             background-color:#cccccc ;
+             border-radius: 10px;
+             position: absolute;
+             left: 340px;
+             top: 2800px;
+		   }
+		   .box8
+		   {
+              height: 180px;
+              width: 400px;
+              background-color:#cccccc ;
+              border-radius: 10px;
+              position: absolute;
+              left: 340px;
+              top: 3000px;
+		   }
+		   .image10
+		   {
+		   	 position: absolute;
+		   	 left: 10px;
+		   	 top: 15px;
+		   }
+		    .image10 img
+           {
+            transition: all 1s;
+           }
+           .image10 img:hover 
+           {
+            width: 150px;
+            height:150px;
+           }
+		       .image11
+		       {
+		       	position: absolute;
+		   	    left: 10px;
+		   	    top: 15px;
+		       }
+		      .image11 img
+           {
+            transition: all 1s;
+           }
+           .image11 img:hover 
+           {
+            width: 150px;
+            height:150px;
+           }
+		       .line7
+		        {
+             position: absolute;
+             top: 10px;
+             left: 170px;
+		        }
+           .line8
+           {
+             position: absolute;
+             left: 170px;
+             top: 10px;
+           }
+           .line9
+           {
+           	position: absolute;
+           	top: 2800px;
+           	left: 800px;
+           }
+           .contactnow
+           {
+           	 width: 100px;
+		   	      height: 30px;
+		   	     background-color: #29a329;
+		   	     border-radius: 5px;
+		   	     text-align: center;
+		         line-height: 30px;
+		   	     font-size: 15px;
+             position: absolute;
+             top: 2950px;
+             left: 800px;
+             color: white;
+           }
+           .line10
+           {
+           	position: absolute;
+           	top: 3250px;
+           	left: 540px;
+           }
+           .box9
+           {
+           	 height: 200px;
+           	 width: 350px;
+           	 background-color:#cccccc ;
+             border-radius: 10px;
+             position: absolute;
+             top: 3350px;
+             left: 360px;
+           }
+           .box10
+           {
+           	 height: 200px;
+           	 width: 350px;
+           	 background-color:#cccccc ;
+             border-radius: 10px;
+             position: absolute;
+             top: 3350px;
+             left: 740px;
+           }
+           .box11
+           {
+           	 height: 200px;
+           	 width: 350px;
+           	 background-color:#cccccc ;
+             border-radius: 10px;
+             position: absolute;
+             top: 3580px;
+             left: 360px;
+           }
+           .box12
+           {
+           	 height: 200px;
+           	 width: 350px;
+           	 background-color:#cccccc ;
+             border-radius: 10px;
+             position: absolute;
+             top: 3580px;
+             left: 740px;
+           }
+           .image12
+           {
+           	position: absolute;
+           	top: 10px;
+           	left: 10px;
+           }
+		       .image13
+           {
+           	position: absolute;
+           	top: 10px;
+           	left: 10px;
+           }
+           .image14
+           {
+           	position: absolute;
+           	top: 10px;
+           	left: 10px;
+           }
+           .image15
+           {
+           	position: absolute;
+           	top: 10px;
+           	left: 10px;
+           }
+           .line11
+           {
+           	position: absolute;
+           	left: 135px;
+           }
+           .line12
+           {
+           	position: absolute;
+           	left: 135px;
+           }
+           .line13
+           {
+           	position: absolute;
+           	left: 135px;
+           }
+           .line14
+           {
+           	position: absolute;
+           	left: 135px;
+           }
+           .box13
+           {
+           	width: 840px;
+           	height: 150px;
+           	background-color: #99ff99;
+           	border-radius: 10px;
+           	position: absolute;
+           	top: 3890px;
+           	left: 320px;
+           }
+           .line15
+           {
+           	position: absolute;
+           	left: 70px;
+           	top: 15px;
+           }
+           .mail
+           {
+           	position: absolute;
+           	top: 50px;
+           	left: 500px;
+           }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             .homepage11 ul
+	  {
+      list-style: none; 
+	  }
+	  .homepage11 ul li 
+    {
+	     
+		   height: 30px;
+       width: 100px;
+			 text-align: center;
+			 line-height: 30px;
+		   float: left;
+		   border-radius: 12px;
+
+		} 
+	  .homepage11 ul li a 
+	  {
+		   text-decoration: none;
+			 color: black;
+		}
+	  .homepage11 ul li:hover 
+	  {
+			 background:  #ccccb3;
+    }
+	  .homepage11 ul ul
+	  {
+		    display: none;
+		}
+		.homepage11 ul li:hover>ul  
+		{
+		    display: block; 
+		}
+		.homepage11
+		{
+			position: absolute;
+			left: 1000px;
+		}
+
+            .about 
+    {
+      position: absolute;
+      top: 10px;
+      left: 600px;
+      font-size: 25px;
+    }
+		.image21
+		{
+        position: absolute;
+        top: 150px;
+        left: 300px;
+		}
+		.image21 img
+    {
+        transition: all 1s;
+    }
+    .image21 img:hover 
+    {
+        width: 440px;
+       height:300px;
+    }
+		.line1
+		{
+			position: absolute;
+			top: 150px;
+			left: 760px;
+		}
+		.ourgoals
+		{
+			position: absolute;
+			left: 680px;
+			top: 500px;
+		}
+		.line2
+		{
+			position: absolute;
+			left: 470px;
+			top: 600px;
+		}
+		.image19
+		{
+      position: absolute;
+      top: 750px;
+      left: 500px;
+		}
+		.image19 img
+    {
+      transition: all 1s;
+    }
+    .image19 img:hover 
+    {
+       width: 250px;
+       height:400px;
+    }
+		.image18
+		{
+      position: absolute;
+      top: 755px;
+      left: 780px;
+		}
+		.image18 img
+    {
+      transition: all 1s;
+    }
+    .image18 img:hover 
+    {
+      width: 250px;
+     height:180px;
+    }
+		.image20
+		{
+      position: absolute;
+      top: 960px;
+      left: 780px;
+		}
+		.image20 img
+    {
+       transition: all 1s;
+    }
+    .image20 img:hover 
+    {
+      width: 250px;
+      height:180px;
+    }
+
+
+
+
+
+
+
+
+             .homepage12 ul
+	  {
+      list-style: none; 
+	  }
+	  .homepage12 ul li 
+    {
+	     
+		   height: 30px;
+       width: 100px;
+			 text-align: center;
+			 line-height: 30px;
+		   float: left;
+		   border-radius: 12px;
+
+		} 
+	  .homepage12 ul li a 
+	  {
+		   text-decoration: none;
+			 color: black;
+		}
+	  .homepage12 ul li:hover 
+	  {
+			 background:  #ccccb3;
+    }
+	  .homepage12 ul ul
+	  {
+		    display: none;
+		}
+		.homepage12 ul li:hover>ul  
+		{
+		    display: block; 
+		}
+		.homepage12
+		{
+			position: absolute;
+			left: 1000px;
+		}
+
+     .line18
+		{
+			position: absolute;
+			top: 60px;
+			left: 350px;
+			font-size: 20px;
+		}
+		.box14
+		{
+			width: 380px;
+			height: 200px;
+			background-color: #cccccc;
+			border-radius: 10px;
+			position: absolute;
+			top: 210px;
+			left: 350px;
+		}
+		.box15
+		{
+			width: 380px;
+			height: 200px;
+			background-color: #cccccc;
+			border-radius: 10px;
+			position: absolute;
+			top: 210px;
+			left: 740px;
+		}
+		.image22
+		{
+			position: absolute;
+			top: 10px;
+			left: 10px;
+		}
+		.image22 img
+            {
+                  transition: all 1s;
+            }
+            .image22 img:hover 
+            {
+                  width: 180px;
+                  height:180px;
+            }
+		.image23
+		{
+			position: absolute;
+			top: 10px;
+			left: 10px;
+		}
+		.image23 img
+            {
+                  transition: all 1s;
+            }
+            .image23 img:hover 
+            {
+                  width: 180px;
+                  height:180px;
+            }
+		.name1
+		{
+			position: absolute;
+			top: 16px;
+			left: 210px;
+		}
+		.name2
+		{
+			position: absolute;
+			top: 16px;
+			left: 210px;
+		}
+		.line19
+		{
+			position: absolute;
+			left: 350px;
+			top: 430px;
+		}
+		.box16
+		{
+			width: 260px;
+			height: 110px;
+			background-color: #cccccc;
+			border-radius: 10px;
+			position: absolute;
+			top: 520px;
+			left: 350px;
+		}
+		.box17
+		{
+			width: 260px;
+			height: 110px;
+			background-color: #cccccc;
+			border-radius: 10px;
+			position: absolute;
+			top: 520px;
+			left: 620px;
+		}
+		.box18
+		{
+			width: 260px;
+			height: 110px;
+			background-color: #cccccc;
+			border-radius: 10px;
+			position: absolute;
+			top: 520px;
+			left: 890px;
+		}
+		.image24
+		{
+			position: absolute;
+			top: 5px;
+			left: 5px;
+		}
+		.image24 img
+            {
+                  transition: all 1s;
+            }
+            .image24 img:hover 
+            {
+                  width: 130px;
+                  height:100px;
+            }
+		.name3
+		{
+			position: absolute;
+			top: 10px;
+			left: 150px;
+		}
+		.image25
+		{
+			position: absolute;
+			top: 5px;
+			left: 5px;
+		}
+		.image25 img
+            {
+                  transition: all 1s;
+            }
+            .image25 img:hover 
+            {
+                  width: 130px;
+                  height:100px;
+            }
+		.name4
+		{
+			position: absolute;
+			top: 10px;
+			left: 140px;
+		}
+		.image5
+		{
+			position: absolute;
+			top: 5px;
+			left: 5px;
+		}
+		.image26 img
+            {
+                  transition: all 1s;
+            }
+            .image25 img:hover 
+            {
+                  width: 130px;
+                  height:100px;
+            }
+		.name5
+		{
+			position: absolute;
+			top: 10px;
+			left: 140px;
+		}
+		.line20
+		{
+			position: absolute;
+			top: 660px;
+			left: 350px;
+		}
+		.box19
+		{
+			width: 260px;
+			height: 110px;
+			background-color: #cccccc;
+			border-radius: 10px;
+			position: absolute;
+			top: 770px;
+			left: 350px;
+		}
+		.box20
+		{
+			width: 260px;
+			height: 110px;
+			background-color: #cccccc;
+			border-radius: 10px;
+			position: absolute;
+			top: 770px;
+			left: 620px;
+		}
+		.box21
+		{
+			width: 260px;
+			height: 110px;
+			background-color: #cccccc;
+			border-radius: 10px;
+			position: absolute;
+			top: 770px;
+			left: 890px;
+		}
+		.image27
+		{
+			position: absolute;
+			left: 5px;
+			top: 5px;
+		}
+		.image27 img
+            {
+                  transition: all 1s;
+            }
+            .image27 img:hover 
+            {
+                  width: 120px;
+                  height:100px;
+            }
+		.image28
+		{
+			position: absolute;
+			left: 5px;
+			top: 5px;
+		}
+		.image28 img
+            {
+                  transition: all 1s;
+            }
+            .image28 img:hover 
+            {
+                  width: 120px;
+                  height:100px;
+            }
+		.image29
+		{
+			position: absolute;
+			left: 5px;
+			top: 5px;
+		}
+		.image29 img
+            {
+                  transition: all 1s;
+            }
+            .image29 img:hover 
+            {
+                  width: 120px;
+                  height:100px;
+            }
+		.name6
+		{
+            position: absolute;
+            left: 140px;
+            top: 12px;
+		}
+		.name7
+		{
+            position: absolute;
+            left: 140px;
+            top: 12px;
+		}
+		.name8
+		{
+            position: absolute;
+            left: 140px;
+            top: 10px;
+		}
+		.line21
+		{
+			position: absolute;
+			top: 900px;
+			left: 350px;
+		}
+		.box22
+		{
+			width: 260px;
+			height: 110px;
+			background-color: #cccccc;
+			border-radius: 10px;
+			position: absolute;
+			top: 1000px;
+			left: 350px;
+		}
+		.box23
+		{
+			width: 260px;
+			height: 110px;
+			background-color: #cccccc;
+			border-radius: 10px;
+			position: absolute;
+			top: 1000px;
+			left: 620px;
+		}
+		.box24
+		{
+			width: 260px;
+			height: 110px;
+			background-color: #cccccc;
+			border-radius: 10px;
+			position: absolute;
+			top: 1000px;
+			left: 890px;
+		}
+		.image30
+		{
+			position: absolute;
+			left: 5px;
+			top: 5px;
+		}
+		.image30 img
+            {
+                  transition: all 1s;
+            }
+            .image30 img:hover 
+            {
+                  width: 120px;
+                  height:100px;
+            }
+		.image31
+		{
+			position: absolute;
+			left: 5px;
+			top: 5px;
+		}
+		.image31 img
+            {
+                  transition: all 1s;
+            }
+            .image31 img:hover 
+            {
+                  width: 120px;
+                  height:100px;
+            }
+		.image32
+		{
+			position: absolute;
+			left: 5px;
+			top: 5px;
+		}
+		.image32 img
+            {
+                  transition: all 1s;
+            }
+            .image32 img:hover 
+            {
+                  width: 120px;
+                  height:100px;
+            }
+		.name9
+		{
+            position: absolute;
+            left: 140px;
+            top: 12px;
+		}
+		.name10
+		{
+            position: absolute;
+            left: 140px;
+            top: 12px;
+		}
+		.name11
+		{
+            position: absolute;
+            left: 140px;
+            top: 12px;
+		}
+		.line22
+		{
+			position: absolute;
+			top: 1120px;
+			left: 350px;
+		}
+		.box25
+		{
+			width: 260px;
+			height: 110px;
+			background-color: #cccccc;
+			border-radius: 10px;
+			position: absolute;
+			top: 1220px;
+			left: 350px;
+		}
+		.box26
+		{
+			width: 260px;
+			height: 110px;
+			background-color: #cccccc;
+			border-radius: 10px;
+			position: absolute;
+			top: 1220px;
+			left: 620px;
+		}
+		.box27
+		{
+			width: 260px;
+			height: 110px;
+			background-color: #cccccc;
+			border-radius: 10px;
+			position: absolute;
+			top: 1220px;
+			left: 890px;
+		}
+		.image33
+		{
+			position: absolute;
+			left: 5px;
+			top: 5px;
+		}
+		.image33 img
+            {
+                  transition: all 1s;
+            }
+            .image33 img:hover 
+            {
+                  width: 120px;
+                  height:100px;
+            }
+		.image34
+		{
+			position: absolute;
+			left: 5px;
+			top: 5px;
+		}
+		.image34 img
+            {
+                  transition: all 1s;
+            }
+            .image34 img:hover 
+            {
+                  width: 120px;
+                  height:100px;
+            }
+		.image35
+		{
+			position: absolute;
+			left: 5px;
+			top: 5px;
+		}
+		.image35 img
+            {
+                  transition: all 1s;
+            }
+            .image35 img:hover 
+            {
+                  width: 120px;
+                  height:100px;
+            }
+		.name12
+		{
+            position: absolute;
+            left: 140px;
+            top: 12px;
+		}
+		.name13
+		{
+            position: absolute;
+            left: 140px;
+            top: 0px;
+		}
+		.name14
+		{
+            position: absolute;
+            left: 140px;
+            top: 0px;
+		}
+
+
+
+
+
+
+          .homepage13 ul
+	  {
+      list-style: none; 
+	  }
+	  .homepage13 ul li 
+    {
+	     
+		   height: 30px;
+       width: 100px;
+			 text-align: center;
+			 line-height: 30px;
+		   float: left;
+		   border-radius: 12px;
+
+		} 
+	  .homepage13 ul li a 
+	  {
+		   text-decoration: none;
+			 color: black;
+		}
+	  .homepage13 ul li:hover 
+	  {
+			 background:  #ccccb3;
+    }
+	  .homepage13 ul ul
+	  {
+		    display: none;
+		}
+		.homepage13 ul li:hover>ul  
+		{
+		    display: block; 
+		}
+		.homepage13
+		{
+			position: absolute;
+			left: 1000px;
+		}
+
+     .abc 
+     {
+     	position: absolute;
+     	top: 100px;
+     	left: 550px;
+     	font-size: 25px;
+     }
+      
+		.box28
+		  {
+		  	height: 200px;
+		  	width: 200px;
+		  	background-color: #cccccc;
+		  	border-radius: 10px;
+		  	position: absolute;
+		  	top: 200px;
+		  	left: 440px;
+
+		  }
+		   .box29
+		  {
+		  	height: 200px;
+		  	width: 200px;
+		  	background-color: #cccccc;
+		  	border-radius: 10px;
+		  	position: absolute;
+		  	top: 200px;
+		  	left: 660px;
+		  }
+		   .box30
+		  {
+		  	height: 200px;
+		  	width: 200px;
+		  	background-color: #cccccc;
+		  	border-radius: 10px;
+		  	position: absolute;
+		  	top: 200px;
+		  	left: 880px;
+		  }
+		  .watch
+		  {
+		  	
+		  	position: absolute;
+		  	top: 30px;
+		  	left: 70px;
+		  }
+		  .time3
+		  {
+		  	position: absolute;
+		  	top: 120px;
+		  	left: 55px;
+		  }
+		   .address2
+		  {
+		  	position: absolute;
+		  	top: 70px;
+		  	left: 25px;
+		  }
+		   .mobile
+		   {
+		   	position: absolute;
+		   	top: 50px;
+		   	left: 50px;
+		   }
+
+
+
+
+
+
+
+
+                  .homepage14 ul
+	  {
+      list-style: none; 
+	  }
+	  .homepage14 ul li 
+    {
+	     
+		   height: 30px;
+       width: 100px;
+			 text-align: center;
+			 line-height: 30px;
+		   float: left;
+		   border-radius: 12px;
+
+		} 
+	  .homepage14 ul li a 
+	  {
+		   text-decoration: none;
+			 color: black;
+		}
+	  .homepage14 ul li:hover 
+	  {
+			 background:  #ccccb3;
+    }
+	  .homepage14 ul ul
+	  {
+		    display: none;
+		}
+		.homepage14 ul li:hover>ul  
+		{
+		    display: block; 
+		}
+		.homepage14
+		{
+			position: absolute;
+			left: 1000px;
+		}
+
+		   *
+		{
+			margin: 0px;
+			padding: 0px;
+		}
+		.background2
+		{
+			 height: 700px;
+           	        width: 1560px;
+           	        background-color:#cccccc ;  
+		}
+		.booktable2
+		{
+			position: absolute;
+			top: 70px;
+			left: 550px;
+			font-size: 25px;
+
+		}
+		.firstname
+		{
+			position: absolute;
+			top: 170px;
+			left: 400px;
+		}
+		.box31
+		{
+			width: 300px;
+			height: 30px;
+		}
+		.lastname
+		{
+			position: absolute;
+			top: 170px;
+			left: 750px;
+		}
+		.box32
+		{
+			width: 300px;
+			height: 30px;
+		}
+		.mail2
+		{
+			position: absolute;
+			top: 250px;
+			left: 400px;
+		}
+		.box33
+		{
+			width: 300px;
+			height: 30px;
+		}
+		.tabletype
+		{
+			position: absolute;
+			top: 250px;
+			left: 750px;
+		}
+		#box34
+		{
+			width: 305px;
+			height: 33px;
+		}
+		.number
+		{
+			position: absolute;
+			top: 330px;
+			left: 400px;
+		}
+		.box35
+		{
+			width: 300px;
+			height: 30px;
+		}
+		.placement
+		{
+			position: absolute;
+			top: 330px;
+			left: 750px;
+		}
+		#box36
+		{
+			width: 305px;
+			height: 33px;
+		}
+		.date
+		{
+			position: absolute;
+			top: 410px;
+			left: 400px;
+		}
+		.box37
+		{
+			width: 300px;
+			height: 30px;
+		}
+		.time2
+		{
+			position: absolute;
+			top: 410px;
+			left: 750px;
+		}
+		.box38
+		{
+			width: 300px;
+			height: 30px;
+		}
+		.note
+		{
+			position: absolute;
+			top: 490px;
+			left: 400px;
+		}
+		.booktable3
+		{
+			width: 100px;
+		   	 height: 30px;
+		   	 background-color: #29a329;
+		   	 border-radius: 5px;
+		   	 text-align: center;
+		     line-height: 30px;
+		   	 font-size: 15px;
+             position: absolute;
+             top: 600px;
+             left: 400px;
+             color: white;
+		}
